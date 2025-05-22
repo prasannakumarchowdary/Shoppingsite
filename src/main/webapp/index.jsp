@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Summer sales has started</h1>
+         <h1>Big billion days has started there are many offers</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
